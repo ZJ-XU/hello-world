@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi,Humans!
+
+Zjxu here.I like Python ,because life is short, you need Python.
